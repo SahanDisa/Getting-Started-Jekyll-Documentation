@@ -1,1 +1,1 @@
-# Getting-Started-Jekyll-Documentation-
+# Getting-Started-Jekyll-Documentation
