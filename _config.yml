@@ -21,7 +21,7 @@ description: 'ImageLab is a standalone tool which supports anyone to get started
 # project gh-pages enabled URL to host the site.
 # For testing enable gh-page for your forked repo (point the /docs folder)
 # and use that URL instead.
-url: https://scorelab.github.io/ImageLab
+url: https://sahandisa.github.io/Getting-Started-Jekyll-Documentation/
 baseurl: /ImageLab
 
 author:
